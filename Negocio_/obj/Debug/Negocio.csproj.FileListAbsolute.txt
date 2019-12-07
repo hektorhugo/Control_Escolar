@@ -1,0 +1,16 @@
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\bin\Debug\Negocio_.exe.config
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\bin\Debug\Negocio_.exe
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\bin\Debug\Negocio_.pdb
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\bin\Debug\Acceso_Datos_.exe
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\bin\Debug\EntityFramework.dll
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\bin\Debug\EntityFramework.SqlServer.dll
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\bin\Debug\Modelos.exe
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\bin\Debug\Acceso_Datos_.pdb
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\bin\Debug\Modelos.pdb
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\bin\Debug\EntityFramework.xml
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\bin\Debug\EntityFramework.SqlServer.xml
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\obj\Debug\Negocio_.Properties.Resources.resources
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\obj\Debug\Negocio.csproj.GenerateResource.Cache
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\obj\Debug\Negocio_.exe
+F:\Escritorio\RIGH_04122019\Control_Escolar\Negocio_\obj\Debug\Negocio_.pdb

@@ -1,0 +1,14 @@
+F:\Escritorio\RIGH_04122019\Control_Escolar\Acceso_Datos_\bin\Debug\Acceso_Datos_.exe.config
+F:\Escritorio\RIGH_04122019\Control_Escolar\Acceso_Datos_\bin\Debug\Acceso_Datos_.exe
+F:\Escritorio\RIGH_04122019\Control_Escolar\Acceso_Datos_\bin\Debug\Acceso_Datos_.pdb
+F:\Escritorio\RIGH_04122019\Control_Escolar\Acceso_Datos_\bin\Debug\EntityFramework.dll
+F:\Escritorio\RIGH_04122019\Control_Escolar\Acceso_Datos_\bin\Debug\EntityFramework.SqlServer.dll
+F:\Escritorio\RIGH_04122019\Control_Escolar\Acceso_Datos_\bin\Debug\Modelos.exe
+F:\Escritorio\RIGH_04122019\Control_Escolar\Acceso_Datos_\bin\Debug\Modelos.pdb
+F:\Escritorio\RIGH_04122019\Control_Escolar\Acceso_Datos_\bin\Debug\EntityFramework.xml
+F:\Escritorio\RIGH_04122019\Control_Escolar\Acceso_Datos_\bin\Debug\EntityFramework.SqlServer.xml
+F:\Escritorio\RIGH_04122019\Control_Escolar\Acceso_Datos_\obj\Debug\Acceso_Datos.csprojResolveAssemblyReference.cache
+F:\Escritorio\RIGH_04122019\Control_Escolar\Acceso_Datos_\obj\Debug\Acceso_Datos_.Properties.Resources.resources
+F:\Escritorio\RIGH_04122019\Control_Escolar\Acceso_Datos_\obj\Debug\Acceso_Datos.csproj.GenerateResource.Cache
+F:\Escritorio\RIGH_04122019\Control_Escolar\Acceso_Datos_\obj\Debug\Acceso_Datos_.exe
+F:\Escritorio\RIGH_04122019\Control_Escolar\Acceso_Datos_\obj\Debug\Acceso_Datos_.pdb

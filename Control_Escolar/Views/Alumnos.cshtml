@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Control_Escolar.Models.Alumnos>
+
+@foreach (var item in Model)
+{
+    <tr>1
+        <td>
+            @Html.DisplayFor(modelItem => item.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.apellidoPaterno)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.apellidoMaterno)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.idAlumno }) |
+            @Html.ActionLink("Details", "Details", new { id = item.idAlumno })  |
+            @Html.ActionLink("Delete", "Delete", new { id = item.idAlumno })
+        </td>
+    </tr>
+}

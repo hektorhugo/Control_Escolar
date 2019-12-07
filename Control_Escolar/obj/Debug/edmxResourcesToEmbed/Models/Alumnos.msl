@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Control_EscolarEntities">
+    <EntitySetMapping Name="asignado">
+      <EntityTypeMapping TypeName="Model.asignado">
+        <MappingFragment StoreEntitySet="asignado">
+          <ScalarProperty Name="idAsignado" ColumnName="idAsignado" />
+          <ScalarProperty Name="id_Alumno" ColumnName="id_Alumno" />
+          <ScalarProperty Name="id_materia" ColumnName="id_materia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="materias">
+      <EntityTypeMapping TypeName="Model.materias">
+        <MappingFragment StoreEntitySet="materias">
+          <ScalarProperty Name="idMateria" ColumnName="idMateria" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="costo" ColumnName="costo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

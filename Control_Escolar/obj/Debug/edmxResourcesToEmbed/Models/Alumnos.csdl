@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="asignado">
+    <Key>
+      <PropertyRef Name="idAsignado" />
+    </Key>
+    <Property Name="idAsignado" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_Alumno" Type="Int32" />
+    <Property Name="id_materia" Type="Int32" />
+  </EntityType>
+  <EntityType Name="materias">
+    <Key>
+      <PropertyRef Name="idMateria" />
+    </Key>
+    <Property Name="idMateria" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="costo" Type="Decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityContainer Name="Control_EscolarEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="asignado" EntityType="Self.asignado" />
+    <EntitySet Name="materias" EntityType="Self.materias" />
+  </EntityContainer>
+</Schema>
